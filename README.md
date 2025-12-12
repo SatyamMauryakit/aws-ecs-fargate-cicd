@@ -340,6 +340,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Built with ❤️ for DevOps by [Amitabh](https://github.com/Amitabh-DevOps)**
+**Built with ❤️ for DevOps by [Satyam Maurya](https://github.com/satyammauryakit)**
 
 **⭐ Star this repo if you find it helpful!**
